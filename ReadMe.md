@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hello visitor!! My name is Ambar Pathak I'm a graduate student majoring in data science from George Washington University. I'm also working as a communication professional for George Washington University School of Business what I'm responsible for assets and ideas generation for the marketing team. Prior to this, I worked in a Fortune 500 company Larsen and Toubro Infotech when I got to work in various roles starting from a graduate engineering trainee all the way up to program coordinator. In these roles, I was responsible for data preprocessing and information extraction from large amounts of data generated from the business operations in Europe Middle Eastern and Africa region. I was also responsible for delivering generated insights to business stakeholders to help them expand their footprint.
 
-Additionally, I have research interests in astrophysics and microbiology with data science.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ambar-pathak-118b30b3/) 
